@@ -80,15 +80,17 @@ padding: 0px 10px 10px 10px;
 .flaga{
   border-left: 1px. solid #56a2dc
 }
-form.frm{
-  display: block;
+form{
   margin:0 auto;
   margin-top: 150px;
+  display: block;
   width: 560px;
-  height: 65px;
+  height: 600px;
   background-color: rgba(0,0,0,0.5);
+  text-align: center;
 }
 p{
+  border-bottom: 1px solid #d4d6cb;
 display: block;
 font-family: 'HelveticaNeue';
 font-size: 24px;
@@ -96,15 +98,7 @@ color: white;
 text-align: center;
 line-height: 65px;
 }
-form.frn{
-  display: block;
-  margin:0 auto;
-  margin-top: 1px;
-  width: 560px;
-  height: 540px;
-  background-color: rgba(0,0,0,0.5);
-  text-align: center;
-}
+
 .LogFB{
   display: block;
   text-align: center;
